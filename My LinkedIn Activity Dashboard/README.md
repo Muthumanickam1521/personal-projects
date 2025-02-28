@@ -1,5 +1,8 @@
 # Welcome ! (Dashboard version 1)
-## [Link to the dashboard in Tableau Public](https://public.tableau.com/app/profile/muthumanickam.v/viz/LinkedInActivity/Dashboard2)
+## Demo
+![Screenshot from 2025-03-01 00-09-24](https://github.com/user-attachments/assets/a963369f-1d87-4ad4-b7e2-f56a16360b6b)
+
+**Link to Dashboard**: [Link to the dashboard in Tableau Public](https://public.tableau.com/app/profile/muthumanickam.v/viz/LinkedInActivity/Dashboard2)
 
 This is my first Tableau project that is titled as "My LinkedIn Activity". I created a simple dashbaord with my LinkedIn data and found useful insights from the visuals. 
 
